@@ -1,0 +1,22 @@
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+header h1{
+    background-color: rgb(151, 191, 243);
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+}
+span{
+    background-color:rgb(187, 224, 241);
+    color:rgb(7, 179, 121);
+    padding:5px;
+}
+section{
+    border-style: solid;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: rgb(7, 179, 121);
+}
